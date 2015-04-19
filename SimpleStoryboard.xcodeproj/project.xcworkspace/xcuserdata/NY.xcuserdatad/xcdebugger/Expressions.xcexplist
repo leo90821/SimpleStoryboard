@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TaskListTableViewController prepareForSegue:sender:]:TaskListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "@selector(setDelegate:)">
+            </PersistentString>
+            <PersistentString
+               value = "[destination respondsToSelector:@selector(setDelegate:)]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TaskListTableViewController viewDidLoad]:TaskListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TaskListTableViewController tableView:cellForRowAtIndexPath:]:TaskListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TaskDetailViewController viewWillDisappear:]:TaskDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "editedSelection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
